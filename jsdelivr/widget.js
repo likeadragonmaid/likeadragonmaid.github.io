@@ -1,4 +1,4 @@
-(function(e){var t="http://lab.lepture.com/github-cards/";
+(function(e){var t="//cdn.jsdelivr.net/github-cards/1.0.2/";
 var r,i=0;
 var a=e.getElementsByTagName("meta");
 var n,d,l,c;
