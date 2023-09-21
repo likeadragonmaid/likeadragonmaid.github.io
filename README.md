@@ -1,4 +1,4 @@
 # My Website
 This website project is running live at
-## https://いらっしゃい.みんな/
-and https://gibcheesepuffs.github.io/
+## https://likeadragonmaid.dev/
+and https://likeadragonmaid.github.io/
